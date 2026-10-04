@@ -1,0 +1,1 @@
+# rt-thread-frdm-mcxa346-smoke-alarm
