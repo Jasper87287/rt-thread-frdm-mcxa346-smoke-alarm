@@ -102,4 +102,4 @@ $DATA,123456,97,253,582,NORMAL,0,0,0,1
 B 站链接：
 (https://www.bilibili.com/video/BV1rfH666Evc/?share_source=copy_web&vd_source=b3051c4c718899391d78e43a0ac56642)
 RT-Thread 论坛文章
-填写论坛文章链接
+(https://club.rt-thread.org/ask/article/0e815ddfc029ea9c.html)
